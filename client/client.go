@@ -4,7 +4,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/go-gost/gosocks5"
+	"github.com/1103lastproxy/gosocks5"
 )
 
 // Dial connects to the SOCKS5 server.
