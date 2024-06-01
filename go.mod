@@ -1,3 +1,3 @@
-module github.com/go-gost/gosocks5
+module github.com/1103lastproxy/gosocks5
 
 go 1.16
